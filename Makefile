@@ -3,7 +3,7 @@ images:
 	Rscript scripts/median/003.R
 
 book: images
-	julia merge_text.jl
+	perl merge_text.pl
 	pandoc -o book.pdf book.md
 	rm -f book.md
 

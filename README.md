@@ -35,14 +35,14 @@ directory.
 
 The full book is specified in terms of the ordered examples that should be
 merged together into a full-length book. This merging is done, for the moment,
-in Julia using the `merge_text.jl` script.
+in Perl using the `merge_text.pl` script.
 
 # Dependencies
 
 Build dependencies:
 
 * R: Used to generate images
-* Julia: Used to build up one book-length document from individual examples
+* Perl: Used to build up one book-length document from individual examples
 * Pandoc: Used to translate LaTeX-flavored Markdown to pure LaTeX
 * LaTeX: Used to build a PDF from LaTeX
 
