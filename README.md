@@ -18,7 +18,7 @@ hands. In practice, things are complicated by the need to make sure that
 examples aren't redundant or low quality, but it's still possible to make this
 book a large-scale community project.
 
-As such, I hope you'll consider contributing. To contribute, just a submit a
+As such, I hope you'll consider contributing. To contribute, just submit a
 new example. If your example only requires text, you only need to write
 a short LaTeX-flavored Markdown document. If you need images, please include
 R code that generates your images.

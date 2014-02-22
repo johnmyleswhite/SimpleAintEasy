@@ -1,5 +1,6 @@
 images:
 	Rscript scripts/median/001.R
+	Rscript scripts/median/003.R
 
 book: images
 	julia merge_text.jl

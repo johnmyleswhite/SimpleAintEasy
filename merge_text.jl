@@ -4,6 +4,7 @@ sections = [
 	joinpath("text", "supporting", "front.md"),
 	joinpath("text", "median", "001.md"),
 	joinpath("text", "median", "002.md"),
+	joinpath("text", "median", "003.md"),
 ]
 
 io = open("book.md", "w")
