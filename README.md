@@ -8,6 +8,15 @@ This repo attempts to describe some of the non-obvious properties possessed by
 standard statistical methods so that users can make informed choices about
 methods.
 
+# Reading
+
+If you just want to read the book, download it
+[here](https://github.com/johnmyleswhite/SimpleAintEasy/raw/master/book.pdf).
+
+Note that the formatting of the book is quite simple. This is intentional: it's
+easier to iterate on changes if you don't have to worry about typesetting until
+the copy is finalized.
+
 # Contributing
 
 The reason I chose to announce a book of examples isn't just pedagogical:
