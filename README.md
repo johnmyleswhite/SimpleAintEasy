@@ -32,6 +32,15 @@ new example. If your example only requires text, you only need to write
 a short LaTeX-flavored Markdown document. If you need images, please include
 R code that generates your images.
 
+If you contribute, make sure you're happy with the following terms:
+
+* All code will be released under the
+  [MIT license](http://opensource.org/licenses/MIT)
+* All text will be released under the
+  [CC-BY 4.0](http://creativecommons.org/licenses/by/4.0/)
+* The finished book will be published with all proceeds going to
+  a to-be-determined charity
+
 # Layout
 
 The main text for the book lives in the `text` directory. Each example is
